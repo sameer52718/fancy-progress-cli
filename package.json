@@ -1,6 +1,6 @@
 {
   "name": "fancy-progress-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable emoji-themed CLI progress bar tool",
   "main": "cli.js",
   "bin": {
