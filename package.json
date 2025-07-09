@@ -1,0 +1,28 @@
+{
+  "name": "fancy-progress-cli",
+  "version": "1.0.0",
+  "description": "A customizable emoji-themed CLI progress bar tool",
+  "main": "cli.js",
+  "bin": {
+    "fancy-progress": "./cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": [
+    "cli",
+    "progress-bar",
+    "emoji",
+    "terminal",
+    "console",
+    "fancy",
+    "nodejs"
+  ],
+  "author": "Sameer Shaikh <alisameer52718@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.9.1",
+    "yargs": "^17.7.2"
+  }
+}
